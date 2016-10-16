@@ -7,11 +7,6 @@ All outputs will be stored under ./bin/ folder
 
 SDN-pcap-Simulator
 
-## Installation
-
-cd {Project folder}
-make
-
 ## Usage
 
 bin/sim [pcap-filename] [mode]
