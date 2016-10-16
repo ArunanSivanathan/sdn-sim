@@ -63,7 +63,7 @@ int printFlowUse(int secs, int *CurrentCount,unsigned long long *currentRate);
 int printPacketTuples(unsigned long pid, struct packet_meta *c_meta, struct pcap_pkthdr *header);
 int printFlowEntry();
 #define MaxFlows 5000
-#define FLOWUSEPRINT 1
+#define FLOWUSEPRINT 0
 #define PACKETINFOPRINT 0
 #define EVENTINFO 0
 
