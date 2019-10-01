@@ -1,4 +1,4 @@
-# SDN-pcap-Simulator
+# SDN Switch Emulator
 
 ## Usage
 
